@@ -1,7 +1,5 @@
 package com.afrifanom.inventory;
 
-import com.afrifanom.inventory.User;
-import com.afrifanom.inventory.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.PostMapping;
